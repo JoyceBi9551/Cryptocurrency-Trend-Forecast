@@ -1,2 +1,3 @@
 # Cryptocurrency-Trend-Forecast
-ARMA Model (from 2012 to 2018)
+ARIMA Model
+Use history bitcoin price from 2012 to 2018 to forcast bitcoin price from at the end of 2018 to 2019
